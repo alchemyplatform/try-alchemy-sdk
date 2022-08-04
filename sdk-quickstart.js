@@ -3,7 +3,7 @@ import { Network, Alchemy } from 'alchemy-sdk';
 // Optional Config object, defaults to demo api-key and eth-mainnet.
 const settings = {
   // Replace with your Alchemy API Key to get 3x more test eth on faucets!
-  apiKey: 'ZtMzxUMEPTw7nOu8NNWXBavf3R0ffSHF', 
+  apiKey: 'demo', 
   network: Network.ETH_MAINNET, // Replace with your network.
 };
 
