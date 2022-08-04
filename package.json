@@ -1,0 +1,23 @@
+{
+  "name": "try-alchemy-sdk",
+  "version": "1.0.0",
+  "description": "super quick repo to get started with the alchemy-sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alchemyplatform/try-alchemy-sdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alchemyplatform/try-alchemy-sdk/issues"
+  },
+  "homepage": "https://github.com/alchemyplatform/try-alchemy-sdk#readme",
+  "devDependencies": {
+    "alchemy-sdk": "^2.0.1"
+  }
+}
